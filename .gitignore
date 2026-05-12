@@ -2,7 +2,7 @@ usuarios.json
 *.json
 !package.json
 !package-lock.json
-!*.exemplo.json
+usuarios.exemplo.json
 .env
 .env.*
 !.env.example
